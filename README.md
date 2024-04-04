@@ -5,7 +5,7 @@ Análise e Desenvolvimento de Sistema - PUC Minas
 O objetivo geral deste projeto é o desenvolvimento de uma ferramenta, denominada como “EcoSaver”, que permita aos consumidores obterem informações claras e acessíveis sobre o consumo de energia através do cadastro de informações sobre aparelhos eletrônicos e sua posterior conversão em emissões de carbono, atuando, assim, na conscientização sobre o consumo e na adoção de hábitos sustentáveis para a redução de impactos ambientais.
 # Integrantes
 Anderson dos Santos Guimarães
-Danillo Souza de Farias
+Danillo Souza de Faria
 Jéssica Maria Silva
 Paloma Caroline de Sá Bassani
 Rafael de Castro Leles
