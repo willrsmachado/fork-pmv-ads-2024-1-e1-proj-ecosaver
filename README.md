@@ -20,9 +20,9 @@ Joyce Christina de Paiva Carvalho
 
 ## Documentação
 1. [Documentação de Contexto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documentacao_de_contexto.md)
-2. Especificação do projeto
-3. Metodologia
-4. Projeto de Interface
+2. [Especificação do projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/especificacao_do_projeto.md)
+3. [Metodologia](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/metodologia.md)
+4. [Projeto de Interface](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/projeto_de_interface.md)
 
 
 
