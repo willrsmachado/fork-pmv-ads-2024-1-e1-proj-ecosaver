@@ -1,4 +1,6 @@
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/a87f6ddf-5b8a-4b43-a644-b5c40ae63639" alt="Logo EcoSaver" width="100">
+<div style="text-align:center;">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/a87f6ddf-5b8a-4b43-a644-b5c40ae63639" alt="Logo EcoSaver" width="100">
+</div>
 
 # EcoSaver – Serviço de Economia e Gasto Eficiente de Energia
 Análise e Desenvolvimento de Sistema - PUC Minas
