@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/e78eff57-9018-4074-b15a-eb5648859568" alt="Figura 1 - Fluxo do Usuário" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/e78eff57-9018-4074-b15a-eb5648859568" alt="Figura 1 - Fluxo do Usuário" width="800">
   <br>
   Figura 1 0 Fluxo de usuário
 </p>
@@ -20,6 +20,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividia 
 - Header: Composto por uma NavBar, onde o usuário terá acesso as páginas do site e ao seu login;
 - Main: Composto pelo conteúdo da tela em que o usuário está utilizando;
 - Footer: Informações da equipe responsável pela idealização, elaboração e desenvolvimento do projeto.
+<br>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/57a45fb6-36f6-41c3-b76e-017355adff82" alt="Figura 2 - Prtótipo" width="500">
@@ -31,6 +32,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividia 
 ### Tela: Home Page
 
 <p>Composta pela logo do pojeto e pelos botões: Cadastrar e Login</p>
+<br>
 
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/4de6ae8e-0059-48c6-bc33-0fee58c11532" alt="Home Page" width="500">
