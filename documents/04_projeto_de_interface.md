@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/e78eff57-9018-4074-b15a-eb5648859568" alt="Figura 1 - Fluxo do Usuário" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/e78eff57-9018-4074-b15a-eb5648859568" alt="Figura 1 - Fluxo do Usuário" width="600">
 </p>
 
 ## Protótipo de Baixa Fidelidade
@@ -19,5 +19,5 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividia 
 - Footer: Informações da equipe responsável pela idealização, elaboração e desenvolvimento do projeto.
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/57a45fb6-36f6-41c3-b76e-017355adff82" alt="Figura 2 - Prtótipo" width="200">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/57a45fb6-36f6-41c3-b76e-017355adff82" alt="Figura 2 - Prtótipo" width="500">
 </p>
