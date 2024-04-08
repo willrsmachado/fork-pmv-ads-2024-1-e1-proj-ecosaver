@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/e78eff57-9018-4074-b15a-eb5648859568" alt="Figura 1 - Fluxo do Usuário" width="800">
   <br>
-  Figura 1 0 Fluxo de usuário
+  Figura 1 - Fluxo de usuário
 </p>
 <br>
 
