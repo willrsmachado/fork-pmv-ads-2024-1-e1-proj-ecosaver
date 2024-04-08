@@ -3,7 +3,7 @@
 ## User Flow
 
 <p>Foi utilizado um fluxograma (Figura 1) para mapear e otimizar a jornada do usuário, identificando pontos de atrito ou oportunidades de melhoria.</p>
-<p>Para visualizar o protótipo interativo, acesse o ambiente: <a href="https://www.figma.com/file/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?type=design&node-id=0-1&mode=design&t=o939ccYKv9dkMwGS-0" target="_blank">EcoSaver-Figma</a>.</p>
+<p>Para visualizar o protótipo com maior qualidade, acesse o ambiente: <a href="https://www.figma.com/file/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?type=design&node-id=0-1&mode=design&t=o939ccYKv9dkMwGS-0" target="_blank">EcoSaver-Figma</a>.</p>
 <br>
 
 <p align="center">
