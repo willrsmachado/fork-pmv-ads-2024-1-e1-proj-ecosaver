@@ -56,7 +56,7 @@ Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Fig
 <br/><br/>
 
 | Ambiente | Plataforma | Link de acesso | 
-|--------------------|---------------------|--------------------|
+|:--------------------|:---------------------|:--------------------|
 | Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/README.md |
 | Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver |
 | Projeto de interface e wireframes | Figma | https://www.figma.com/file/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?type=design&mode=design)type=design&mode=design&t=LyuCRG8kAFXTLgJ9-0 |
