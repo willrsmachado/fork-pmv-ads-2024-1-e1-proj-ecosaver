@@ -8,6 +8,11 @@
 
 
 
+
+
+
+
+
 ## Histórias de Usuários
 <div align="justify">
 Partindo das informações que as Personas apresentaram, chegamos à conclusão das seguintes histórias de usuário relevantes aos problemas identificados.
@@ -22,7 +27,6 @@ Partindo das informações que as Personas apresentaram, chegamos à conclusão 
 |Mariana Leite  | Obter resultados individuais do consumo de cada dispositivo eletrônico.     | Auxiliar na hora da elaboração de relatórios detalhados à diretoria, onde poderei discriminar as informações de consumo de modo detalhado.  |
 |Alane Couto  | Ferramenta que forneça uma conversão individualizada do consumo de energia em emissões de CO2 | Para incluir em sua estratégia de marketing verde e atrair mais clientes.             |
 |Gilvanilda Dias  | Visualizar o consumo mensal de energia elétrica da minha empresa associada a cada aparelho e utilização | Gerenciar melhor meus custos operacionais e identificar oportunidades de economia de energia para reduzir despesas.
-
 </div>
 
 ## Requisitos
