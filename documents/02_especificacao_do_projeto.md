@@ -1,49 +1,18 @@
 # Especificações do Projeto
 
-Identificação do problema e proposta de solução do ponto de vista do usuário, incluindo a elaboração de diagramas de personas, histórias de usuários e requisitos funcionais e não funcionais.
+## Perfis de Usuário 
+<div align="justify">
 
-## Personas
 
-### Sofia Ferreira
 
-+ Idade: 35 anos
-+ Ocupação: Mãe e consumidora consciente
-+ Necessidades: Deseja entender melhor como seu consumo de energia afeta sua conta de luz e o meio ambiente, pensando no futuro de seus filhos.
 
-### Paula Rodrigues
 
-+ Idade: 45 anos
-+ Ocupação: Profissional de marketing e consumidora consciente
-+ Necessidades: Está sempre buscando maneiras de viver de forma mais sustentável. Ela deseja aprender e entender melhor como seu consumo de energia contribui para as emissões de CO2 e tomar medidas para reduzi-lo.
-
-### Beatriz Silva
-
-+ Idade: 30 anos
-+ Ocupação: Gerente de equipe em uma empresa de tecnologia
-+ Necessidades: Monitorar o consumo de energia do escritório e está interessada em encontrar maneiras de reduzir os custos operacionais e as emissões de CO2 da equipe.
-
-### Mariana Leite
-
-+ Idade: 33 anos
-+ Ocupação: Técnica de manutenções em uma fábrica.
-+ Necessidades: Precisa de uma plataforma que permita inserir informações detalhadas sobre os dispositivos eletrônicos utilizados na fábrica, para uma análise individualizada do consumo de cada equipamento.
-
-### Alane Couto
-
-+ Idade: 40 anos
-+ Ocupação: Proprietária de uma pequena empresa de comércio. 
-+ Necessidades: Deseja reduzir os custos operacionais e as emissões de CO2 de sua empresa, para maximizar os lucros e demonstrar um compromisso com a sustentabilidade.
-
-### Gilvanilda Dias
-
-+ Idade: 38 anos
-+ Ocupação: Diretora de uma empresa de produção
-+ Necessidade: Ela está preocupada com os custos operacionais crescentes e deseja encontrar maneiras de reduzir o consumo de energia, os custos e as emissões de CO2 da empresa.
 
 ## Histórias de Usuários
-
+<div align="justify">
 Partindo das informações que as Personas apresentaram, chegamos à conclusão das seguintes histórias de usuário relevantes aos problemas identificados.
-
+<br/><br/>
+  
 |Eu como... `Persona`| Quero/Preciso ... `Funcionalidade` |Para ... `Motivo/Valor`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Sofia Ferreira  | Inserir detalhes específicos sobre seus dispositivos eletrônicos, como tipo, tempo de uso e potência.    | Para uma análise individualizada do consumo de energia e custo mensal de cada aparelho.               |
@@ -54,13 +23,18 @@ Partindo das informações que as Personas apresentaram, chegamos à conclusão 
 |Alane Couto  | Ferramenta que forneça uma conversão individualizada do consumo de energia em emissões de CO2 | Para incluir em sua estratégia de marketing verde e atrair mais clientes.             |
 |Gilvanilda Dias  | Visualizar o consumo mensal de energia elétrica da minha empresa associada a cada aparelho e utilização | Gerenciar melhor meus custos operacionais e identificar oportunidades de economia de energia para reduzir despesas.
 
-## Requisitos
+</div>
 
+## Requisitos
+<div align="justify">
 Os requisitos são especificações detalhadas das funcionalidades, comportamentos e restrições que o software deve atender para satisfazer as necessidades dos usuários e product owner. Eles descrevem o que o software deve fazer e definem as bases para o seu desenvolvimento e teste.
+<br/>
+</div>
 
 ### Requisitos Funcionais
-
+<div align="justify">
 Os requisitos funcionais têm como objetivo principal descrever as funcionalidades específicas que o sistema deve realizar para atender às necessidades e expectativas dos usuários, fornecendo uma base clara para o desenvolvimento, implementação e teste do software.
+<br/><br/>
 
 |     ID       |     Descrição                                                                                                                                                                     |     Prioridade    |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -69,10 +43,13 @@ Os requisitos funcionais têm como objetivo principal descrever as funcionalidad
 |     RF-03    |     O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.                                                                                              |     Alta          |
 |     RF-04    |     O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.                                                                                                                        |     Alta          |
 |     RF-05    |     O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética                                                                                                               |     Alta          |
+<br/>
+</div>
 
 ### Requisitos não Funcionais
-
+<div align="justify">
 Os requisitos não funcionais são padrões de qualidade do software, como o quão rápido ele deve ser ou o quão simples será a usabilidade (user friendly). Eles não descrevem o que o programa faz, mas sim como ele deve ser feito para ser eficiente e confiável.
+<br/><br/>
 
 |     ID        |     Descrição                                                                               |     Prioridade    |
 |---------------|--------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -81,15 +58,21 @@ Os requisitos não funcionais são padrões de qualidade do software, como o qu�
 |     RNF-03    |     A aplicação deve ter um bom nível de contrate entre os elementos da tela.                          |     Média         |
 |     RNF-04    |     A aplicação deve ser compatível com os navegadores. O site deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge.                                                                                 |     Alta       |
 
+<br/>
+</div>
 
 ## Restrições
-
+<div align="justify">
 Restrições são obrigações claras e objetivas do projeto. A tabela a seguir mostra a lista de restrições do projeto.
+<br/><br/>
 
 |     ID        |     Descrição                                                                                           |
 |---------------|---------------------------------------------------------------------------------------------------------|
 |     RE-01     |     A equipe   não pode subcontratar o desenvolvimento do trabalho.                                     |
 |     RE-02     |     O site não pode   conter conhecimentos além daqueles aprendidos durante o semestre.                 |
+
+<br/>
+</div>
 
 
 
