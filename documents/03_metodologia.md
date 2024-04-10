@@ -31,9 +31,41 @@ Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o G
 +   In progress: Representa as tarefas que foram iniciadas.
   
 +   Done: Nesta lista são incluídas as tarefas finalizadas, que já foram testadas e atendem aos requisitos necessários, estando pronta para serem disponibilizadas aos usuários.
+  
+O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950, e é apresentado, no estado atual, na figura abaixo:
+<br/><br/>
+<div  align="center">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/164424555/6ca4a951-edf2-4c74-9484-08f2a6dea448">
+<br/>
+  
+**Figura 1 – Print daTela do kanban no GitHub utilizada pelo grupo**
+</div>
+
+## Ferramentas
+<div align="justify">
+As ferramentas empregadas no projeto são:
+<br/><br/>
+  
++  Editor de código;
++  Ferramentas de comunicação;
++  Ferramentas de desenho de tela (figma)
+
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+<br/><br/>
+Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma, apresentadas com seu propósito na tabela que se segue.
 <br/><br/>
 
-O quadro kanban do grupo no GitHub está disponível no link: [GitHub Pages](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950), e é apresentado, no estado atual, na figura abaixo:
+| Ambiente | Plataforma | Link de acesso | 
+|--------------------|---------------------|--------------------|
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/README.md |
+| Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver |
+| Projeto de interface e wireframes | Figma | https://www.figma.com/file/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?type=design&mode=design)type=design&mode=design&t=LyuCRG8kAFXTLgJ9-0 |
+| Gerenciamento do projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950Aopen |
+
+<br/>
+</div>
+
+
 
 
 
