@@ -15,7 +15,7 @@ converta em emissões de CO2, proporcionando aos usuários uma visão tangível 
 <br/>
 </div>
 
-# Problema
+## Problema
 <div align="justify">
 A problemática identificada neste contexto reside na ausência de uma ferramenta eficaz que permita aos usuários verificarem de maneira precisa o custo de energia associado a cada aparelho eletrônico em seu domicílio e assim poder adotar ações prévias para a redução do consumo. 
 <br/><br/>
@@ -25,7 +25,7 @@ Além disso, há uma lacuna significativa no que diz respeito à capacidade de c
 <br/><br/>
 </div>
 
-# Objetivos
+## Objetivos
 <div align="justify">
 O objetivo geral deste projeto é o desenvolvimento de uma ferramenta, denominada como “EcoSaver”, que permita aos consumidores obterem informações claras e acessíveis sobre o consumo de energia através do cadastro de informações sobre aparelhos eletrônicos e sua posterior conversão em emissões de carbono, atuando, assim, na conscientização sobre o consumo e na adoção de hábitos sustentáveis para a redução de impactos ambientais. Ao promover a conscientização e o engajamento dos usuários, a ferramenta EcoSaver não apenas ajudará a reduzir as emissões de CO2 a nível individual, mas também contribuirá para uma mudança cultural ampla em direção a um estilo de vida mais sustentável e ecologicamente consciente.
 <br/><br/>
@@ -41,7 +41,7 @@ Como objetivos específicos, é possível destacar:
 +	Ter uma interface amigável e de fácil navegação, tornando-o acessível aos usuários, independentemente do seu nível de experiência tecnológica.
 </div>
 
-# Justificativa
+## Justificativa
 <div align="justify">
 Em 2022, 61,9% da matriz elétrica brasileira era proveniente de usinas hidrelétricas (energia hidráulica). A produção de energia pelo setor eólico e solar remontaram a 11,8% e 4,4%, respectivamente. Energias não renováveis, uso de gás natural, carvão, material nuclear, óleo diesel e licor negro alcançaram 14,6%.(BEN, 2023; total em 2022: 677 TWh - terawatt-hora).
 <br/><br/>
@@ -58,7 +58,7 @@ Nesse sentido, o presente trabalho explora a implementação de uma ferramenta d
 Dessa forma, mediante o fornecimento de informações sobre a emissão de CO2 associada ao consumo de energia, contribui-se com a consciência ambiental, o comportamento responsável e a economia financeira. 
 </div>
 
-# Público alvo
+## Público alvo
 <div align="justify">
 Embora diversos setores e indivíduos possam estar relacionados aos interesses do projeto, o foco deste trabalho se centra em dois perfis específicos: consumidores residenciais e pequenos empreendedores. 
 <br/><br/>
