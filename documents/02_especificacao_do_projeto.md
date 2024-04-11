@@ -91,27 +91,21 @@ Indivíduo proprietário de um pequeno negócio
 Partindo das informações que as Personas apresentaram, chegamos à conclusão das seguintes histórias de usuário relevantes aos problemas identificados.
 <br/><br/>
   
-|Eu como... `Persona`| Quero/Preciso ... `Funcionalidade` |Para ... `Motivo/Valor`                 |
+|Eu como | Quero/Preciso |Para  |
 |--------------------|------------------------------------|----------------------------------------|
 |Consumidor Consciente | Inserir informações detalhadas sobre meus dispositivos eletrônicos, selecionar o tipo do aparelho e fornecer informações sobre os dias e horas de uso, pois gostaria de uma análise detalhada do meu gasto de energia elétrica, já que a fatura mensal apenas me fornece a informação como um todo e não individualizada por aparelho. | Ao descobrir quanto cada aparelho consome, vou conseguir estabelecer estratégias para reduzir o consumo e metas de uso do aparelho, de modo a limitar seu funcionamento. Isso irá me auxiliar tanto no aspecto financeiro, pois estarei ciente dos custos associados aos gastos com a conta de luz, a fim de que eu possa economizar, além de me fornecer informações sobre a utilização de cada aparelho (como por exemplo televisão e computador), a fim de que seja possível uma avaliação sobre o consumo. |
-|Sofia Ferreira  | Uma ferramenta que informe o custo associado de Co2 com base no meu consumo de energia elétrica.           | Entender como meu consumo afeta diretamente o meio ambiente e tomar medidas para reduzir meu impacto ambiental.               |
-|Paula Rodrigues  | Plataforma que forneça informações e dados sobre o impacto ambiental de seu consumo de energia e maneiras de reduzi-lo.           | Aumentar meu conhecimento sobre o consumo de energia e as alternativas para sua redução.               |
-|Beatriz Silva  | Inserir informações sobre os dispositivos eletrônicos utilizados pela minha equipe, como quantidade, tipo e tempo de uso.         | Estabelecer metas e métricas para a equipe reduzir o consumo de energia e as emissões de CO2 da empresa.               |
-|Mariana Leite  | Obter resultados individuais do consumo de cada dispositivo eletrônico.     | Auxiliar na hora da elaboração de relatórios detalhados à diretoria, onde poderei discriminar as informações de consumo de modo detalhado.  |
-|Alane Couto  | Ferramenta que forneça uma conversão individualizada do consumo de energia em emissões de CO2 | Para incluir em sua estratégia de marketing verde e atrair mais clientes.             |
-|Gilvanilda Dias  | Visualizar o consumo mensal de energia elétrica da minha empresa associada a cada aparelho e utilização | Gerenciar melhor meus custos operacionais e identificar oportunidades de economia de energia para reduzir despesas.
+|Consumidor consciente  | Uma ferramenta que informe o custo associado de Co2 com base no meu consumo de energia elétrica, pois a conversão do valor total do gasto (considerando todos os aparelhos) não me possibilitaria uma análise mais detalhada e individualizada. | Entender como meu consumo afeta diretamente o meio ambiente e tomar medidas mais conscientes para reduzir meu impacto ambiental, contribuindo para a sustentabilidade global e o bem-estar das futuras gerações. |
+| Consumidor consciente | Uma ferramenta que me forneça links informativos sobre o consumo consciente de energia. | Aumentar meu conhecimento sobre o consumo de energia e as alternativas para sua redução, como também o dimensionamento do impacto desse consumo no meio ambiente. |
+| Funcionário  | Acesso a uma plataforma onde possa inserir informações sobre os dispositivos eletrônicos utilizados pela minha equipe, como quantidade, tipo e tempo de uso, e obter informações sobre o consumo de cada aparelho elétrico e o quanto isso representa em CO2.| Auxiliar na definição de metas e métricas que minha equipe e eu podemos alcançar, a fim de reduzir o consumo energético e, consequentemente, a emissão de CO2 da empresa.|
+|Funcionário | Obter resultados individuais do consumo de cada dispositivo eletrônico e o quanto isso representa em CO2.| Auxiliar na hora da elaboração de relatórios detalhados à diretoria, onde poderei discriminar as informações de consumo de modo detalhado, para demonstrar nosso avanço e desenvolvimento. Com as informações detalhadas vou conseguir contribuir para levar informações aos meus superiores sobre o inventário de carbono da empresa, já que terei acesso à geração de CO2 associado ao consumo energético de cada dispositivo eletrônico. |
+|Gestor | Uma plataforma para controlar os meus gastos com energia elétrica, através da análise detalhada do consumo de cada aparelho, mediante informações como tempo de uso e horas, para que eu possa visualizar o consumo mensal de energia elétrica da minha empresa associada a cada aparelho e utilização.| Gerenciar melhor meus custos operacionais, identificar oportunidades de economia de energia e reduzir despesas, através do estabelecimento de metas e maximizar o caixa da empresa.|
+| Gestor | Um sistema que realizasse a conversão do gasto de energia elétrica de forma individualizada por aparelho, em CO2, pois gostaria de implementar medidas publicitárias de marketing verde da minha empresa, a fim de me destacar no meu segmento e conseguir mais clientes.| Demonstrar um compromisso com a sustentabilidade e a redução do impacto ambiental de minhas operações, a fim de atrair clientes que valorizam empresas ecologicamente conscientes e contribuir para um futuro mais sustentável.| 
 </div>
 
 ## Requisitos
-<div align="justify">
-Os requisitos são especificações detalhadas das funcionalidades, comportamentos e restrições que o software deve atender para satisfazer as necessidades dos usuários e product owner. Eles descrevem o que o software deve fazer e definem as bases para o seu desenvolvimento e teste.
-<br/>
-</div>
 
 ### Requisitos Funcionais
 <div align="justify">
-Os requisitos funcionais têm como objetivo principal descrever as funcionalidades específicas que o sistema deve realizar para atender às necessidades e expectativas dos usuários, fornecendo uma base clara para o desenvolvimento, implementação e teste do software.
-<br/><br/>
 
 |     ID       |     Descrição                                                                                                                                                                     |     Prioridade    |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -120,13 +114,13 @@ Os requisitos funcionais têm como objetivo principal descrever as funcionalidad
 |     RF-03    |     O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.                                                                                              |     Alta          |
 |     RF-04    |     O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.                                                                                                                        |     Alta          |
 |     RF-05    |     O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética                                                                                                               |     Alta          |
+
+**Prioridade: Alta / Média / Baixa.
 <br/>
 </div>
 
 ### Requisitos não Funcionais
 <div align="justify">
-Os requisitos não funcionais são padrões de qualidade do software, como o quão rápido ele deve ser ou o quão simples será a usabilidade (user friendly). Eles não descrevem o que o programa faz, mas sim como ele deve ser feito para ser eficiente e confiável.
-<br/><br/>
 
 |     ID        |     Descrição                                                                               |     Prioridade    |
 |---------------|--------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -135,6 +129,7 @@ Os requisitos não funcionais são padrões de qualidade do software, como o qu�
 |     RNF-03    |     A aplicação deve ter um bom nível de contrate entre os elementos da tela.                          |     Média         |
 |     RNF-04    |     A aplicação deve ser compatível com os navegadores. O site deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge.                                                                                 |     Alta       |
 
+**Prioridade: Alta / Média / Baixa.
 <br/>
 </div>
 
