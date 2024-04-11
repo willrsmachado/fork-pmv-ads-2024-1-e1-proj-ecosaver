@@ -1,4 +1,4 @@
-# Referênccias
+# Referências
 <div align="justify">
 
 ANUÁRIO ESTATÍSTICO DE ENERGIA ELÉTRICA 2020. Ano base 2019. Disponível em: (https://www.epe.gov.br/sites-pt/publicacoes-dados). Acesso em: 27/02/2024.
