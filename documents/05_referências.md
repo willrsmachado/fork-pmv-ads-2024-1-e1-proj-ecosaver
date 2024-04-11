@@ -23,7 +23,10 @@ ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU) – Objetivos do Desenvolvimento Sustent
 <br/><br/>
 RIBEIRO, José Manuel. Carga de energia no Brasil deve crescer 3,2% ao ano entre 2024 e 2028. Forbes, 06 de dezembro de 2023. Disponível em: https://forbes.com.br/forbes-money/2023/12/carga-de-energia-no-brasil-deve-crescer-32-ao-ano-entre-2024-e-2028/. Acesso em 07/03/2024.
 <br/><br/>
-SCRUM.ORG. Scrum.org A casa do Scrum. 2023. Disponivel em: https://www.scrum.org/. Acessado em: Março/2023
+SCRUM.ORG. Scrum.org A casa do Scrum. 2023. Disponivel em: https://www.scrum.org/. Acessado em: Março/2023.
+<br/>
+</div>
+
 
 
 
