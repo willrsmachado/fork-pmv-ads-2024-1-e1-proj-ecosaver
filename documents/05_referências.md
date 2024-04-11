@@ -1,6 +1,4 @@
-
 ANUÁRIO ESTATÍSTICO DE ENERGIA ELÉTRICA 2020. Ano base 2019. Disponível em: (https://www.epe.gov.br/sites-pt/publicacoes-dados). Acesso em: 27/02/2024.
-
 <br/>
 BRASIL. EPE. Anuário Estatístico De Energia Elétrica 2022, Ano base 2021. Disponível em: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/topico 168/Fact%20Sheet%20%20Anu%C3%A1rio%20Estat%C3%ADstico%20de%20Energia%20El%C3%A9trica%202022.pdf. Acesso em 27/02/2024.
 <br/>
