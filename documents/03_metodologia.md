@@ -26,8 +26,6 @@ Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o G
 
 +  Product Backlog: Aqui são recebidas as tarefas a serem trabalhadas, representando o backlog do produto. Todas as atividades identificadas ao longo do projeto são incorporadas a esta lista.
   
-+  Ready: Após o item do Backlog ter sido aprovado e priorizado, será movido para o ready, o que significa que está pronto para ser trabalhado pela equipe.
-  
 +  To Do: Representa o Sprint Backlog em progresso.
   
 +   In progress: Representa as tarefas que foram iniciadas.
@@ -39,7 +37,7 @@ Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o G
 O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950, e é apresentado, no estado atual, na figura abaixo:
 <br/><br/>
 <div  align="center">
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/164424555/27995b96-5fcf-4c5a-8f3f-eef71f0bfdd0">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/164424555/27a69258-f36e-496e-9ffb-cd69e4ee836b">
 <br/>
   
 **Figura 1 – Print daTela do kanban no GitHub utilizada pelo grupo**
