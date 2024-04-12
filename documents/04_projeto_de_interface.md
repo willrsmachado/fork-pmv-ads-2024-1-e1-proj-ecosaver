@@ -131,7 +131,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c3a5fc93-a09c-4ecc-af56-52d572f0fa09" alt="Histórico" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/f50584b6-f12b-4177-807c-02a96e0c9074" alt="Histórico" width="500">
   <br>
   Tela: Histórico.
 </p>
