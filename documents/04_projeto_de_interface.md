@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/92969cd6-2282-43f3-b9fd-45aa236d5a9a" alt="Figura 1 - Fluxo do Usuário" width="800">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/9188ff58-c13f-4878-b91c-9b18df3dfb25" alt="Figura 1 - Fluxo do Usuário" width="800">
   <br>
   Figura 1 - Fluxo de usuário
 </p>
