@@ -10,7 +10,7 @@
 <br>
      
   <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/4b3ac15e-9e72-41dc-a8da-1fca1ac24dec" alt="Logo EcoSaver" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/4b3ac15e-9e72-41dc-a8da-1fca1ac24dec" alt="Logo EcoSaver" width="300">
     <br>
     Figura 1: Logomarca EcoSaver
   </p>
