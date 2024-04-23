@@ -29,6 +29,7 @@ O objetivo geral deste projeto é o desenvolvimento de uma ferramenta, denominad
 3. [Metodologia](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/03_metodologia.md)
 4. [Projeto de Interface](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/04_projeto_de_interface.md)
 5. [Referências](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/05_refer%C3%AAncias.md)
+6. [Template Padrão da Aplicação Web](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/05_template_padrao.md)
 
 
 
