@@ -5,7 +5,7 @@
 ### Logomarca
     
 <div style="text-align: justify;">
-  O nome EcoSaver veio da junção de ECO que vem de Economia e Ecologia e de SAVER que remete ao salvamente de energia e o salvamento do meio ambiente. Para a nossa Logomarca escolhemos a palavra ECO em destaque ao lado de uma bateria com o escrito Saver. Possuí um elemento de folha devido o propósito de sustentabilidade.
+  O nome EcoSaver veio da junção de ECO que vem de Economia e Ecologia e de SAVER que remete ao salvamente de energia e ao salvamento do meio ambiente. Para a nossa Logomarca escolhemos a palavra ECO em destaque ao lado de uma bateria com o escrito Saver. Possuí um elemento de folha devido o propósito de sustentabilidade.
 </div>
 <br>
      
