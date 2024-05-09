@@ -114,6 +114,7 @@ Partindo das informações que as Personas apresentaram, chegamos à conclusão 
 |     RF-03    |     O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.                                                                                              |     Alta          |
 |     RF-04    |     O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.                                                                                                                        |     Alta          |
 |     RF-05    |     O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética                                                                                                               |     Alta          |
+|     RF-06    |     O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados.     |     Média          |
 
 **Prioridade: Alta / Média / Baixa.
 <br/>
