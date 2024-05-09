@@ -111,10 +111,12 @@ Partindo das informações que as Personas apresentaram, chegamos à conclusão 
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 |     RF-01    |     O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.            |     Média          |
 |     RF-02    |     O sistema deve permitir ao usuário o cadastramento de aparelhos eletrônicos, onde o usuário poderá fornecer informações quanto ao tipo de aparelho potência, tempo estimado de uso e o valor do kWh da localidade desejada.                                                                                                     |     Alta          |
-|     RF-03    |     O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.                                                                                              |     Alta          |
-|     RF-04    |     O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.                                                                                                                        |     Alta          |
-|     RF-05    |     O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética                                                                                                               |     Alta          |
-|     RF-06    |     O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados.     |     Média          |
+|     RF-03    |     O sistema deverá permitir que o usuário opte por realizar um novo cálculo ou ir diretamente ao histórico de resultados.    |     Média          |
+|     RF-04    |     O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.                                                                                              |     Alta          |
+|     RF-05    |     O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.                                                                                                                        |     Alta          |
+|     RF-06    |     O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética                                                                                                               |     Alta          |
+|     RF-07    |     O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados.     |     Média          |
+
 
 **Prioridade: Alta / Média / Baixa.
 <br/>
