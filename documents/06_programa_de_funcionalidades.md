@@ -3,7 +3,7 @@
 <span style="color: blue ">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/02_especificacao_do_projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/03_metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/04_projeto_de_interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/documents/05_template_padrao.md"> Template Padrão. </a>
 </div>
 
-### Tela Home 
+## 01 - Tela: Home 
 <div align="justify">
 Responsável: Thiago
 <br/><br/>
@@ -49,3 +49,21 @@ Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
 Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
 
 <hr>
+
+## 02 - Tela: Cadastro
+
+## 03 - Tela: Login
+
+## 04 - Tela: Sobre
+
+## 05 - Tela: Notícias
+
+## 06 - Tela: Página Inicial
+
+## 07 - Tela: Página Cálculo
+
+## 08 - Tela: Resultado
+
+## 09 - Tela: Histórico
+
+
