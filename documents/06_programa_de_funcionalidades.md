@@ -4,16 +4,17 @@
 </div>
 
 ## 01 - Tela: Home 
+
 <div align="justify">
-Responsável: Thiago
-<br/><br/>
+- Responsável: Thiago
+<br>
 A tela Home é a página inicial. Nela, o usuário pode se cadastrar através da opção do menu "Cadastre-se", como também pode realizar o login através da opção "Login". Há também a possibilidade do usuário recuperar a senha através da opção "esqueceu a senha?". As estruturas de dados foram baseadas em HTML, CSS e JS. Abaixo segue um exemplo da tela Home:
-<br/><br/>
-<div  align="center">
+</div>
 	
-**Figura 01 – Exemplo da Tela Home**
-<br/><br/>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/164424555/24784245-4e07-419b-ac60-5f8d8deb62e3">
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/104d6015-1372-461f-91d2-d5f5cce87e94">
+Figura 01 – Exemplo da Tela Home
 </div>
 
 ### Requisito atendido.
@@ -51,6 +52,36 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 <hr>
 
 ## 02 - Tela: Cadastro
+
+<div align="justify">
+- Responsável: Rafael
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/6ede1f2f-3c69-4248-94e9-0bb87abcfb64">
+Figura 01 – Exemplo da Cadastro
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
 
 ## 03 - Tela: Login
 
