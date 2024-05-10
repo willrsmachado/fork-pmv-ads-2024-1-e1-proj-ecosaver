@@ -13,7 +13,7 @@ A tela Home é a página inicial. Nela, o usuário pode se cadastrar através da
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/104d6015-1372-461f-91d2-d5f5cce87e94">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/104d6015-1372-461f-91d2-d5f5cce87e94" alt="Tela Home" width="500">
 Figura 01 – Exemplo da Tela Home
 </div>
 
@@ -61,8 +61,8 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/6ede1f2f-3c69-4248-94e9-0bb87abcfb64">
-Figura 01 – Exemplo da Cadastro
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/6ede1f2f-3c69-4248-94e9-0bb87abcfb64" alt="Tela Cadastro" width="500"">
+Figura 02 – Exemplo da Tela Cadastro
 </div>
 
 ### Requisito atendido.
@@ -82,18 +82,177 @@ Figura 01 – Exemplo da Cadastro
 
 >>>>>>>>>>>Escrever instruções (seguir modelo da Home)
 
+<hr>
+
 
 ## 03 - Tela: Login
 
+<div align="justify">
+- Responsável: Rafael
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/efa55f92-6cdd-4a38-85a7-04ee4bb0da06" alt="Tela Cadastro" width="500"">
+Figura 03 – Exemplo da Tela Login
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
+<hr>
+
 ## 04 - Tela: Sobre
+
+<hr>
 
 ## 05 - Tela: Notícias
 
+<div align="justify">
+- Responsável: Anderson
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c638b7ce-54bc-4bd2-8274-9b221f4a2c89" alt="Tela Cadastro" width="500"">
+Figura 05 – Exemplo da Tela Notícias
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
+<hr>
+
 ## 06 - Tela: Página Inicial
+
+<div align="justify">
+- Responsável: Paloma
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/d14ed79d-a84d-42a0-8d0e-7ed50cd1f0d1" alt="Tela Cadastro" width="500"">
+Figura 06 – Exemplo da Tela Página Inicial
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
+<hr>
 
 ## 07 - Tela: Página Cálculo
 
+<div align="justify">
+- Responsável: Danillo
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c76e4bdb-a041-45cb-9fdd-085610be75c6" alt="Tela Cadastro" width="500"">
+Figura 07 – Exemplo da Tela de Cálculo
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
+<hr>
+
 ## 08 - Tela: Resultado
+
+<div align="justify">
+- Responsável: Danillo
+<br>
+>>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/a3f058ca-3895-4e42-a586-4162c623ecca" alt="Tela Cadastro" width="500"">
+Figura 08 – Exemplo da Tela Resultado.
+</div>
+
+### Requisito atendido.
+<div align="justify">
+>>>>>>>>>>>>Escrever função da tela.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+>>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+
+#### Estrutura de Dados
+>>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+
+#### Instruções de acesso
+
+>>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+
+<hr>
 
 ## 09 - Tela: Histórico
 
