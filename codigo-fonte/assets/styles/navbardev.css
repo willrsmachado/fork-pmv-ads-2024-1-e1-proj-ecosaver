@@ -1,4 +1,4 @@
-.navbar {
+.navbardev {
     background-color: #FAC254;
     height: 50px;
     display: flex;
@@ -8,22 +8,22 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.navbar ul {
+.navbardev ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex; 
 }
 
-.navbar ul li {
+.navbardev ul li {
     margin-right: 20px; 
 }
 
-.navbar ul li:last-child {
+.navbardev ul li:last-child {
     margin-right: 0; 
 }
 
-.navbar ul li a {
+.navbardev ul li a {
     color: white;
     text-decoration: none;
     font-size: 18px;
@@ -33,7 +33,7 @@
     transition: all 0.3s ease; 
 }
 
-.navbar ul li a:hover {
+.navbardev ul li a:hover {
     text-decoration: underline;
 }
 
@@ -57,7 +57,7 @@
 
 @media screen and (max-width: 768px) {
 
-    .navbar {
+    .navbardev {
         padding: 1.5 rem 4rem;
     }
 
