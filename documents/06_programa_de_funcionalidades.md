@@ -239,7 +239,8 @@ RF-03: O sistema deverá permitir que o usuário opte por realizar um novo cálc
 
 #### Instruções de acesso
 <div align="justify">
-Abra um navegador de Internet e informe a seguinte URL: xxxxxxxx
+Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/codigo-fonte/assets/paginas/06_pagina_inicial/pagina_inicial.html).
+<br><br>
 Após fazer o login, na página de cadastro, o usuário será direcionado para a página inicial, ocasião em que pode optar por realizar um novo cálculo de consumo de seu aparelho ou, ainda, em ser direcionado para uma página de histórico dos resultados. 
 <br>
 </div>
