@@ -109,11 +109,13 @@ body {
     }
 
     .imagem-container {
-        height: auto; 
-        margin-top: 1rem; 
+        max-width: 20rem; 
+        margin: 1rem auto; 
+        margin-bottom: 1rem;
     }
 
     .rodape {
+        height: 4rem;
         font-size: 0.8rem;
     }
 }

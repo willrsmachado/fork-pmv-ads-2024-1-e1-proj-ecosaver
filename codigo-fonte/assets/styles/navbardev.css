@@ -42,12 +42,12 @@
 }
 
 .logo img {
-    margin-left: 10rem;
+    margin-left: 5rem;
     height: 2rem,; 
 }
 
 .user img {
-    margin-right: 10rem;
+    margin-right: 5rem;
     height: 3rem; 
 }
 
@@ -122,5 +122,9 @@
 
     .open {
         display: block;
+    }
+
+    .logo img {
+        margin-left: 1rem;
     }
 }
