@@ -318,7 +318,7 @@ Figura 09 – Exemplo da Tela Histórico.
 
 ### Requisito atendido.
 <div align="justify">
-RF-009: O site permitirá ao usuário ter acesso aos eletrodomésticos que já foram calculados por data.
+RF-009: O site permitirá ao usuário ter acesso aos eletrodomésticos que já foram calculados.
 <br>
 </div>
 
