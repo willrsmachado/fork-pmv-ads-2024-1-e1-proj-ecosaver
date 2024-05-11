@@ -99,7 +99,13 @@ body {
 @media screen and (max-width: 768px) {
 
     .conteudo {
-        height: auto; 
+        flex-direction: column; /* Alteração aqui */
+        align-items: center; /* Alteração aqui */
+    }
+
+    .nossa-historia {
+        width: 100%; /* Alteração aqui */
+        margin-right: 0; /* Alteração aqui */
     }
 
     .imagem-container {
