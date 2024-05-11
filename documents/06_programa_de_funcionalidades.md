@@ -42,7 +42,7 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta e realizar o Login.
 </div>
 
 #### Estrutura de Dados
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/develop/WebSites/EcoSaver.Site/pages/1_home/home.html
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/01_home
 
 #### Instruções de acesso
 
@@ -122,6 +122,46 @@ Figura 03 – Exemplo da Tela Login
 <hr>
 
 ## 04 - Tela: Sobre
+
+<div align="justify">
+- Responsável: Jéssica
+<br>
+A tela Sobre permite ao usuário ou visitante conhecer sobre o a história do projeto EcoSaver e sobre a nossa equipe. Possui uma imagem e o ícone do GitHub. O ícone permitirá acesso ao nosso repositório no GitHub ao ser clicado, abrindo o repositório em uma nova aba. As estruturas de dados foram baseadas em HTML, CSS e JS, sendo o JS contido na Navbar e Footer. Abaixo segue um exemplo da tela Sobre:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/38ff89fe-45a1-4ebe-92e0-ebafe6c9966c" alt="Tela Home" width="500">
+<br>
+Figura 04 – Exemplo da Tela Sobre.
+</div>
+
+### Requisito atendido.
+<div align="justify">
+RF-004: O site deve ser de fácil navegação e intuitivo.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+● sobre.html
+<br>
+● sobre.css
+<br>
+● navbardev.js
+<br>
+● footer_mobile.js
+<br>
+</div>
+
+#### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/04_sobre
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
+
+Ao clicar em "SOBRE NÓS" na navbar terá acesso a página.
 
 <hr>
 
