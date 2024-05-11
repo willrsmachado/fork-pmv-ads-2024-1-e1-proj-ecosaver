@@ -16,7 +16,7 @@ body {
 }
 
 body { 
-    background-image: url('../../assets/img/imagem_tela.svg');
+    background-image: url('../../img/backgroundIMG.svg');
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
@@ -101,7 +101,8 @@ font-size: 1.5rem;
     
     .container {
         align-items: center; 
-
+    }
+    
     .botoes {
         width: 150%; 
         margin-right: 0; 
@@ -115,6 +116,6 @@ font-size: 1.5rem;
 
 @media screen and (max-width: 425px) {
     .rodape {
-    font-size: 13px;
+    font-size: 0.8rem;
     }
 }
