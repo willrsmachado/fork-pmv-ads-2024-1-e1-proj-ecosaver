@@ -2,10 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 
-.navbardev {
-    padding: 0 0.2rem;
-}
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -61,25 +57,33 @@ body {
 }
 
 .proximo {
-    color: #FFA900;
     font-weight: bold;
     position: absolute;
     top: 100%;
     right: 0;
     transform: translateY(-50%);
     display: flex;
+    flex-direction: row; /* Garante que os itens fiquem na mesma linha */
     align-items: center;
 }
 
-.proximo span {
-    margin-right: 0.5rem;
-    margin-bottom: 2rem;
+.proximo button {
+    width: auto;
+    margin-right: 7rem;
+    border: none;
+    border-radius: 0.3rem;
+    background-color: #FFA900;
+    color: white;
+    text-shadow: .2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.5);;
+    font-weight: bold;
 }
 
 .proximo a {
+    padding: 1rem;
     text-decoration: none;
-    color: #FFA900;
-    margin-right: 8rem;
+    color: white;
+    font-weight: bold;
+    margin-right: 0.5rem;
     margin-bottom: 2rem;
 }
 
@@ -119,7 +123,12 @@ body {
         margin-bottom: 5rem;
     }
 
+    .logo_historico {
+        margin-bottom: 5rem;
+    }
+
     .rodape {
+        height: 4rem;
         font-size: 0.8rem;
     }
 }

@@ -1,11 +1,15 @@
+* {
+    font-size: 62,5%;
+}
+
 .navbardev {
     background-color: #FAC254;
-    height: 50px;
+    height: 4rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    padding: 0 2rem;
+    box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.3);
 }
 
 .navbardev ul {
@@ -16,7 +20,7 @@
 }
 
 .navbardev ul li {
-    margin-right: 20px; 
+    margin-right: 2rem; 
 }
 
 .navbardev ul li:last-child {
@@ -26,10 +30,10 @@
 .navbardev ul li a {
     color: white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 1.4rem;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    padding: 10px; 
+    text-shadow: 0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.5);
+    padding: 1px; 
     transition: all 0.3s ease; 
 }
 
@@ -38,13 +42,13 @@
 }
 
 .logo img {
-    margin-left: 100px;
-    height: 30px; 
+    margin-left: 10rem;
+    height: 2rem,; 
 }
 
 .user img {
-    margin-right: 100px;
-    height: 40px; 
+    margin-right: 10rem;
+    height: 3rem; 
 }
 
 .mobile-menu-icon {
@@ -58,7 +62,7 @@
 @media screen and (max-width: 768px) {
 
     .navbardev {
-        padding: 1.5 rem 4rem;
+        padding: 1rem;
     }
 
     .nav-item{
@@ -84,11 +88,11 @@
     }
 
     .mobile-menu ul {
+        background-color: #FAC254;
         display: flex;
         flex-direction: column;
         text-align: center;
         padding-bottom: 1rem;
-        background-color: #FAC254;
     }
 
     .mobile-menu .nav-item {
@@ -99,6 +103,7 @@
     .mobile-menu ul li a {
         color: white;
         font-weight: bold;
+        font-size: 1.0rem;
         text-shadow: 0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.5);
     }
     
