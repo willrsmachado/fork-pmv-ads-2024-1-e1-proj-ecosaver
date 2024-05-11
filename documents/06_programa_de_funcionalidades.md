@@ -138,7 +138,7 @@ Figura 04 – Exemplo da Tela Sobre.
 
 ### Requisito atendido.
 <div align="justify">
-RF-004: O site deve ser de fácil navegação e intuitivo.
+RNF-02	A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.	Alta.
 <br>
 </div>
 
@@ -361,7 +361,7 @@ Figura 09 – Exemplo da Tela Histórico.
 
 ### Requisito atendido.
 <div align="justify">
-RF-009: O site permitirá ao usuário ter acesso aos eletrodomésticos que já foram calculados.
+RF-07	O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados.
 <br>
 </div>
 
