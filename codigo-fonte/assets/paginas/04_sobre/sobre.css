@@ -26,6 +26,7 @@ body {
 }
 
 .nossa-historia {
+    max-height: 20rem;
     color: #086400;
     width: 40%; 
     text-align: center;
@@ -44,11 +45,11 @@ body {
 }
 
 .nossa-historia img {
-    max-width: 22rem;
+    max-width: rem;
 }
 
 .imagem-container {
-    max-width: 30rem;
+    max-width: 25rem;
     border: 0.2rem solid #D99000;
     border-radius: 1rem;
     padding: 2rem;
