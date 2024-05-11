@@ -303,4 +303,46 @@ Figura 08 – Exemplo da Tela Resultado.
 
 ## 09 - Tela: Histórico
 
+<div align="justify">
+- Responsável: Jéssica
+<br>
+A tela Histórico permitirá ao usuário ver os eletrodomésticos que já foram calculados pelo seu login. Além disso permitirá ao usuário escolher do mais recente ao mais antigo ou do mais antigo ao mais recente. Na parte inferior da tela o usuário terá a opção de voltar ao início (tela Pagina Inicial). As estruturas de dados foram baseadas em HTML, CSS e JS. Abaixo segue um exemplo da tela Histórico:
+</div>
+	
+<div  align="center">
+<br>
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/756b16a3-b296-40d0-bfbe-14d37089cda4" alt="Tela Home" width="500">
+<br>
+Figura 09 – Exemplo da Tela Histórico.
+</div>
+
+### Requisito atendido.
+<div align="justify">
+RF-009: O site permitirá ao usuário ter acesso aos eletrodomésticos que já foram calculados por data.
+<br>
+</div>
+
+#### Artefatos da funcionalidade
+<div align="justify">
+● historico.html
+<br>
+● historico.css
+<br>
+● historico.js
+<br>
+● navbardev.js
+<br>
+● footer_mobile.js
+<br>
+</div>
+
+#### Estrutura de Dados
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/09_historico
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
+
+Para acessar a tela histórico o usuário terá que fazer o login e na página inicial clicar no botão "HISTÓRICO".
+
 
