@@ -32,9 +32,9 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta e realizar o Login.
 <br>
 ● home.js
 <br>
-● navbar.js
+● navbardev.js
 <br>
-● navbar.html
+● navbardev.html
 <br>
 ● footer_mobile.js
 <br>
@@ -251,7 +251,7 @@ Após fazer o login, na página de cadastro, o usuário será direcionado para a
 <div align="justify">
 - Responsável: Danillo
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+Ao ser direcionado para a tela de cálculo, o usuário deve preencher os dados obrigatórios para o cálculo de consumo de energia. Ao clicar em Calcular, será redirecionado para a tela de Resultado.
 </div>
 	
 <div  align="center">
@@ -263,20 +263,35 @@ Figura 07 – Exemplo da Tela de Cálculo
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
+O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.
+O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.
 <br>
 </div>
 
 #### Artefatos da funcionalidade
 <div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
-
+● pagina_calculo.html
+<br>
+● pagina_calculo.css
+<br>
+● navbardev.js
+<br>
+● navbardev.html
+<br>
+● footer_mobile.js
+<br>
+● footer.html
+</div>
 #### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/07_pagina_calculo
 
 #### Instruções de acesso
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/codigo-fonte/assets/paginas/07_pagina_calculo/pagina_calculo.html).
+<br><br>
+Após ser direcionado para a página de cálculo, o usuário tem a opção de calcular seus aparelhos, ou navegar pelo site através dos links disponíveis na navbar. 
+<br>
+</div>
 
 <hr>
 
@@ -297,20 +312,35 @@ Figura 08 – Exemplo da Tela Resultado.
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
+O sistema deverá apresentar os resultados de custo e emissão de CO2.
+Deve também permitir que o usuário opte por realizar um novo cálculo ou ir diretamente ao histórico de resultados.
 <br>
 </div>
 
 #### Artefatos da funcionalidade
 <div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+● resultado.html
+<br>
+● resultado.css
+<br>
+● navbardev.js
+<br>
+● navbardev.html
+<br>
+● footer_mobile.js
+<br>
+● footer.html
 
 #### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/08_resultado
 
 #### Instruções de acesso
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/codigo-fonte/assets/paginas/08_resultado/resultado.html).
+<br><br>
+Após ser direcionado para a página de resultado, o usuário tem a opção de calcular outro aparelho, ir diretamente para o histórico, ou navegar pelo site através dos links na navbar. 
+<br>
+</div>
 
 <hr>
 
