@@ -204,7 +204,8 @@ Figura 05 – Exemplo da Tela Notícias
 <div align="justify">
 - Responsável: Paloma
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+A partir do momento em que o usuário realiza o login ele é direcionado para a tela inicial. Na tela inicial, o usuário tem a opção de realizar o cálculo do consumo de seu aparelho ou, ainda, de acessar um histórico de seus últimos resultados. As estruturas de dados foram baseadas em HTML, CSS e JS. 
+Exemplo da tela inicial:
 </div>
 	
 <div  align="center">
@@ -216,22 +217,33 @@ Figura 06 – Exemplo da Tela Página Inicial
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
+RF-03: O sistema deverá permitir que o usuário opte por realizar um novo cálculo ou ir diretamente ao histórico de resultados.
 <br>
 </div>
 
 #### Artefatos da funcionalidade
 <div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+● pagina_inicial.html
+<br>
+● pagina_inicial.css
+<br>
+● navbardev.css
+<br>
+● navbardev.js
+<br>
+</div>
+
 
 #### Estrutura de Dados
 >>>>>>>>>>>Copiar estrura (seguir modelo da Home)
 
 #### Instruções de acesso
+<div align="justify">
+Abra um navegador de Internet e informe a seguinte URL: xxxxxxxx
+Após fazer o login, na página de cadastro, o usuário será direcionado para a página inicial, ocasião em que pode optar por realizar um novo cálculo de consumo de seu aparelho ou, ainda, em ser direcionado para uma página de histórico dos resultados. 
+<br>
+</div>
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
-
-<hr>
 
 ## 07 - Tela: Página Cálculo
 
