@@ -251,7 +251,7 @@ Após fazer o login, na página de cadastro, o usuário será direcionado para a
 <div align="justify">
 - Responsável: Danillo
 <br>
-Ao ser direcionado para a tela de cálculo, o usuário deve preencher os dados obrigatórios para o cálculo de consumo de energia. Ao clicar em Calcular, será redirecionado para a tela de Resultado.
+Ao ser direcionado para a página de cálculo, o usuário deve preencher os dados obrigatórios para o cálculo de consumo de energia. Ao clicar em Calcular, será redirecionado para a tela de Resultado.
 </div>
 	
 <div  align="center">
@@ -300,7 +300,7 @@ Após ser direcionado para a página de cálculo, o usuário tem a opção de ca
 <div align="justify">
 - Responsável: Danillo
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+Ao ser direcionado para a página de resultado, o usuário terá acesso aos resultados de consumo de energia e do seu impacto na emissão de CO2 do aparelho escolhido. O usuário tem a opção de calcular novos aparelhos ou acessar seu histórico. 
 </div>
 	
 <div  align="center">
@@ -332,6 +332,7 @@ Deve também permitir que o usuário opte por realizar um novo cálculo ou ir di
 ● footer.html
 
 #### Estrutura de Dados
+
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/08_resultado
 
 #### Instruções de acesso
