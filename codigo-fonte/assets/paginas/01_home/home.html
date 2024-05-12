@@ -1,69 +1,71 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt">
 <head>
-      <meta charset="UTF-8"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-         <title>EcoSaver</title>
-            <link rel="stylesheet" href="home.css"/>
-            <link rel="stylesheet" href="css/home.css"/>
-            <link rel="stylesheet" href="../../styles/navbar.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECO SAVER</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="home.css" rel="stylesheet">
 </head>
-
 <body>
-
-   <header>
-      <nav class="navbar">
-         <div class="logo">
-            <a href="home.html">
-                  <img src="../../assets/img/ECONav.svg" alt="ECO">
-            </a>
-         </div>
-
-         <div class="mobile-menu-icon">
-            <button onclick="menuShow( )">
-                  <img class="icon" src="../../assets/img/menu_icon_linhas.svg" alt="Icone Menu">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <div class="navbar-brand">
+                <a href="#"><img src="../../img/EcoNav.svg" alt="ECO"></a>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
-         </div>
-
-         <div class="menu">
-            <ul>
-                  <li class="nav-item"><a href="../1_home/home.html" class="nav-link">HOME</a></li>
-                  <li class="nav-item"><a href="../4_sobre/sobre.html" class="nav-link">SOBRE NÓS</a></li>
-                  <li class="nav-item"><a href="../5_noticias/" class="nav-link">NOTÍCIAS</a></li>
-            </ul>
-         </div>
-
-         <div class="user">
-            <a href="login.html">
-                  <img src="../../assets/img/UserNav.svg" alt="Usuário">
-            </a>
-         </div>
-      </nav>
-
-      <div class="mobile-menu">
-         <ul>
-            <li class="nav-item"><a href="../1_home/home.html" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="../4_sobre/sobre.html" class="nav-link">Sobre nós</a></li>
-            <li class="nav-item"><a href="../5_noticias/" class="nav-link">Notícias</a></li>
-            <li class="nav-item"><a href="../3_login/login.html" class="nav-link"><img src="../../assets/img/UserNav.svg" alt="Usuário"></a></li>
-         </ul>
-      </div>
-</header>
-
-<div class="container">
-
-   <a href="https://www.youtube.com/watch?v=uHQ1w7XckNo"><button>CADASTRO</button></a>
-
-   <a href="https://www.youtube.com/watch?v=uHQ1w7XckNo"><button>LOGIN</button></a>
-
-   <a href="https://www.youtube.com/watch?v=uHQ1w7XckNo"><button>Esqueceu a senha?</button></a>
-
-
-</div>
-   <footer class="rodape">
-      <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
-   </footer>
-
-   <script src="../../scripts/navbar.js"></script>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">SOBRE NÓS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">NOTÍCIAS</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container text-center mt-5">
+        <div class="button-container">
+			
+			<div class="img-row">
+                <img src="../../img/logo.svg">
+            </div>
+			<div class="div-msg-left">
+				<span class="msg-left">Calcule,Reduza, Conserve</span>
+				<span class="msg-right">Seu Portal! Eco-Consciente</span>
+			</div>
+            <div class="button-row">
+                <button class="button">CADASTRO</button>
+            </div>
+            <div class="button-row">
+                <button class="button2">LOGIN</button>
+            </div>
+			<div class="button-row">
+			<br>
+                <span class="esqueceu-senha">* Esqueceu a senha?</span>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6">
+                <img src="../../img/coin_left.svg" class="img-fluid pe-0">
+            </div>
+            <div class="col-6">
+                <img src="../../img/coin_right.svg" class="img-fluid ps-0">
+            </div>
+        </div>
+    </div>
+    <footer class="footer bg-custom">
+        <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html> 
+</html>
