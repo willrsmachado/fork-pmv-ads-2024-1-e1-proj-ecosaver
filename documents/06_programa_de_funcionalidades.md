@@ -206,15 +206,15 @@ Figura 05 – Exemplo da Tela Notícias
 
 ### Requisito atendido.
 <div align="justify">
+RNF-06 O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética. Alta.
+</div>
+#### Artefatos da funcionalidade
+<div align="justify">
 ● noticias.html
 <br>
 ● noticias.css
 <br>
 </div>
-
-#### Artefatos da funcionalidade
-<div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
 
 #### Estrutura de Dados
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/05_noticias
