@@ -121,7 +121,7 @@ Após preencher os campos de login, os usuários podem clicar em um botão de lo
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/efa55f92-6cdd-4a38-85a7-04ee4bb0da06" alt="Tela Cadastro" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/efa55f92-6cdd-4a38-85a7-04ee4bb0da06" alt="Tela Login" width="500"">
 <br>
 Figura 03 – Exemplo da Tela Login
 </div>
@@ -172,7 +172,7 @@ A tela Sobre permite ao usuário ou visitante conhecer sobre o a história do pr
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/38ff89fe-45a1-4ebe-92e0-ebafe6c9966c" alt="Tela Home" width="500">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/38ff89fe-45a1-4ebe-92e0-ebafe6c9966c" alt="Tela Sobre" width="500">
 <br>
 Figura 04 – Exemplo da Tela Sobre.
 </div>
@@ -216,7 +216,7 @@ A tela de Notícias permite ao usuário ou visitante ter acesso às últimas not
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c638b7ce-54bc-4bd2-8274-9b221f4a2c89" alt="Tela Cadastro" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c638b7ce-54bc-4bd2-8274-9b221f4a2c89" alt="Tela Notícias" width="500"">
 <br>
 Figura 05 – Exemplo da Tela Notícias
 </div>
@@ -256,7 +256,7 @@ Exemplo da tela inicial:
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/d14ed79d-a84d-42a0-8d0e-7ed50cd1f0d1" alt="Tela Cadastro" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/d14ed79d-a84d-42a0-8d0e-7ed50cd1f0d1" alt="Tela Pagina Inicial" width="500"">
 <br>
 Figura 06 – Exemplo da Tela Página Inicial
 </div>
@@ -303,7 +303,7 @@ Ao ser direcionado para a página de cálculo, o usuário deve preencher os dado
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c76e4bdb-a041-45cb-9fdd-085610be75c6" alt="Tela Cadastro" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/c76e4bdb-a041-45cb-9fdd-085610be75c6" alt="Tela Pagina Calculo" width="500"">
 <br>
 Figura 07 – Exemplo da Tela de Cálculo
 </div>
@@ -352,7 +352,7 @@ Ao ser direcionado para a página de resultado, o usuário terá acesso aos resu
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/a3f058ca-3895-4e42-a586-4162c623ecca" alt="Tela Cadastro" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/a3f058ca-3895-4e42-a586-4162c623ecca" alt="Tela Resultado" width="500"">
 <br>
 Figura 08 – Exemplo da Tela Resultado.
 </div>
@@ -402,7 +402,7 @@ A tela Histórico permitirá ao usuário ver os eletrodomésticos que já foram 
 	
 <div  align="center">
 <br>
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/756b16a3-b296-40d0-bfbe-14d37089cda4" alt="Tela Home" width="500">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/756b16a3-b296-40d0-bfbe-14d37089cda4" alt="Tela Histórico" width="500">
 <br>
 Figura 09 – Exemplo da Tela Histórico.
 </div>
