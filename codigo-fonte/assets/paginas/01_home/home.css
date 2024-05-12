@@ -158,6 +158,9 @@ body {
 	.div-msg-left{
 		display: none; 
 	}
+    .user{
+        display:none;
+    }
 }
 
 @media (min-width: 448px) { 
