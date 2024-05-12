@@ -208,6 +208,7 @@ Figura 05 – Exemplo da Tela Notícias
 <div align="justify">
 RNF-06 O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética. Alta.
 </div>
+
 #### Artefatos da funcionalidade
 <div align="justify">
 ● noticias.html
