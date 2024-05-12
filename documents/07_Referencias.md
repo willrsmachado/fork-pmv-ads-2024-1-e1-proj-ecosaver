@@ -1,0 +1,1 @@
+RNF-02	A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.	Alta

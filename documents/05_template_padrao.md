@@ -2,6 +2,7 @@
 <div align="justify">
 O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção do menu responsivo. O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado
 <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/develop/WebSites/EcoSaver.Site/pages">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/develop/WebSites/EcoSaver.Site/assets">aqui</a>.
+</div>
 
 ## Elementos da identidade visual
 
