@@ -194,7 +194,7 @@ Ao clicar em "SOBRE NÓS" na navbar terá acesso a página.
 <div align="justify">
 - Responsável: Anderson
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+A tela de Notícias permite ao usuário ou visitante ter acesso às últimas notícias sobre o tema de energia sustentável e economia de energia. A página foi feita em HTML, CSS e JS.
 </div>
 	
 <div  align="center">
@@ -206,7 +206,9 @@ Figura 05 – Exemplo da Tela Notícias
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
+● noticias.html
+<br>
+● noticias.css
 <br>
 </div>
 
@@ -215,11 +217,13 @@ Figura 05 – Exemplo da Tela Notícias
 >>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
 
 #### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/05_noticias
 
 #### Instruções de acesso
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
+
+Ao clicar em "NOTÍCIAS" na navbar terá acesso a página.
 
 <hr>
 
