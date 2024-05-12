@@ -156,6 +156,9 @@ body {
     .label-news {
         display: none;
     }
+    .user {
+        display: none;
+    }
 }
 
 @media (min-width: 448px) {
