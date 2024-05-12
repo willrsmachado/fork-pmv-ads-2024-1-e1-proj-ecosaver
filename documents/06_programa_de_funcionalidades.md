@@ -57,7 +57,9 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 <div align="justify">
 - Responsável: Rafael
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+A tela de cadastro de usuários é onde novos membros podem se inscrever para acessar os recursos da plataforma. Aqui, eles são solicitados a preencher informações básicas, como nome, endereço de e-mail e uma senha segura. 
+
+Após preencher os campos necessários, os usuários podem clicar em um botão de envio para concluir o processo de cadastro. Se os dados fornecidos forem válidos, o sistema irá registrar o novo usuário e redirecioná-lo para a página inicial, onde ele pode fazer login com suas credenciais recém-criadas. Abaixo segue um exemplo da tela Cadastro:
 </div>
 	
 <div  align="center">
@@ -69,20 +71,32 @@ Figura 02 – Exemplo da Tela Cadastro
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
+RF-01	O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.
 <br>
 </div>
 
 #### Artefatos da funcionalidade
 <div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+● cadastro.html
+● cadastro.js
+● cadastro.css
+● navbardev.js
+● navbardev.html
+● footer_mobile.js
+● footer.html
 
 #### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+usuarioLogado:
+- idUsuario: NUMBER (primare key)
+- nome: VARCHAR(64)
+- email: VARCHAR(100)
+- senha: VARCHAR(100)
 
 #### Instruções de acesso
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
+Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
+
+Ao clicar em “Cadastro” na tela paginia inicial, terá acesso a página de cadastro ou em ao clicar em “Não possui um cadastro” na tela de login, terá acesso a página de cadastro.
 
 <hr>
 
@@ -92,7 +106,9 @@ Figura 02 – Exemplo da Tela Cadastro
 <div align="justify">
 - Responsável: Rafael
 <br>
->>>>>>>>>>>>Escrever sobre a tela. Abaixo segue um exemplo da tela Cadastro:
+A tela de login é onde os usuários registrados podem acessar sua conta. Aqui, eles são solicitados a inserir seu endereço de e-mail e senha cadastrados anteriormente.
+
+Após preencher os campos de login, os usuários podem clicar em um botão de login para acessar sua conta. Se as credenciais estiverem corretas, o sistema irá autenticar o usuário e redirecioná-lo para a página inicial, onde ele pode acessar os recursos disponíveis para usuários registrados. Abaixo segue um exemplo da tela de Login:
 </div>
 	
 <div  align="center">
@@ -104,21 +120,29 @@ Figura 03 – Exemplo da Tela Login
 
 ### Requisito atendido.
 <div align="justify">
->>>>>>>>>>>>Escrever função da tela.
-<br>
+RF-01	O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.<br>
 </div>
 
 #### Artefatos da funcionalidade
 <div align="justify">
->>>>>>>>>>>Escrever artefatos (seguir modelo da Home)
+● login.html
+● login.css
+● login.js
+● navbardev.js
+● navbardev.html
+● footer_mobile.js
+● footer.html
 
 #### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
+usuarioLogado:
+- idUsuario: NUMBER (primare key)
+- nome: VARCHAR(64)
+- email: VARCHAR(100)
+- senha: VARCHAR(100)
 
 #### Instruções de acesso
 
->>>>>>>>>>>Escrever instruções (seguir modelo da Home)
-
+Ao clicar em “Login” na tela paginia inicial, terá acesso a página de login.
 <hr>
 
 ## 04 - Tela: Sobre
