@@ -10,7 +10,7 @@
 <br>
 A tela Home é a página inicial. Nela, o usuário pode se cadastrar através da opção do menu "Cadastre-se", como também pode realizar o login através da opção "Login". Há também a possibilidade do usuário recuperar a senha através da opção "esqueceu a senha?". As estruturas de dados foram baseadas em HTML, CSS e JS. Abaixo segue um exemplo da tela Home:
 </div>
-	
+
 <div  align="center">
 <br>
 <img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/104d6015-1372-461f-91d2-d5f5cce87e94" alt="Tela Home" width="500">
@@ -42,15 +42,17 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta e realizar o Login.
 </div>
 
 #### Estrutura de Dados
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/01_home
+<div align="justify">
+A página ainda não possui estrutura de dados, visto que aguarda implementação do JavScrip.
+
 
 #### Instruções de acesso
-
-Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
-
+<div align="justify">
+Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/01_home)
+<br>
 Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
-
-<hr>
+<br>
+</div>
 
 ## 02 - Tela: Cadastro
 
@@ -78,12 +80,20 @@ RF-01	O sistema deve permitir uma funcionalidade de cadastro e login aos usuári
 #### Artefatos da funcionalidade
 <div align="justify">
 ● cadastro.html
+<br>
 ● cadastro.js
+<br>
 ● cadastro.css
+<br>
 ● navbardev.js
+<br>
 ● navbardev.html
+<br>
 ● footer_mobile.js
+<br>	
 ● footer.html
+<br>
+</div:>
 
 #### Estrutura de Dados
 usuarioLogado:
@@ -93,16 +103,14 @@ usuarioLogado:
 - senha: VARCHAR(100)
 
 #### Instruções de acesso
-
-Abra um navegador de Internet e informe a seguinte URL: xxxxxxxxx
-
+<div align="justify">
+Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/tree/main/codigo-fonte/assets/paginas/02_cadastro).
+<br>
 Ao clicar em “Cadastro” na tela paginia inicial, terá acesso a página de cadastro ou em ao clicar em “Não possui um cadastro” na tela de login, terá acesso a página de cadastro.
-
 <hr>
-
+</div>
 
 ## 03 - Tela: Login
-
 <div align="justify">
 - Responsável: Rafael
 <br>
@@ -126,12 +134,21 @@ RF-01	O sistema deve permitir uma funcionalidade de cadastro e login aos usuári
 #### Artefatos da funcionalidade
 <div align="justify">
 ● login.html
+<br>
 ● login.css
+<br>
 ● login.js
+<br>
 ● navbardev.js
+<br>
 ● navbardev.html
+<br>
 ● footer_mobile.js
+<br>
 ● footer.html
+<b
+</div>
+
 
 #### Estrutura de Dados
 usuarioLogado:
@@ -250,7 +267,7 @@ RF-03: O sistema deverá permitir que o usuário opte por realizar um novo cálc
 <br>
 </div>
 
-#### Artefatos da funcionalidade
+### Artefatos da funcionalidade
 <div align="justify">
 ● pagina_inicial.html
 <br>
@@ -262,18 +279,19 @@ RF-03: O sistema deverá permitir que o usuário opte por realizar um novo cálc
 <br>
 </div>
 
+### Estrutura de Dados
+<div align="justify">
+A página ainda não possui estrutura de dados. Com a aplicação do JavaScript a tela será capaz de armazenar e exibir o nome do usuário logado. 
+<br>
+</div>
 
-#### Estrutura de Dados
->>>>>>>>>>>Copiar estrura (seguir modelo da Home)
-
-#### Instruções de acesso
+### Instruções de acesso
 <div align="justify">
 Abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/codigo-fonte/assets/paginas/06_pagina_inicial/pagina_inicial.html).
 <br><br>
 Após fazer o login, na página de cadastro, o usuário será direcionado para a página inicial, ocasião em que pode optar por realizar um novo cálculo de consumo de seu aparelho ou, ainda, em ser direcionado para uma página de histórico dos resultados. 
 <br>
 </div>
-
 
 ## 07 - Tela: Página Cálculo
 
